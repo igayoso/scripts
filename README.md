@@ -1,4 +1,4 @@
-monitoring
+scripts
 ==========
 
-monitoring scripts for linux servers
+Common scripts for linux servers
